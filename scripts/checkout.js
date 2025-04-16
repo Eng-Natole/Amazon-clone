@@ -17,7 +17,7 @@ cart.forEach((cartItem) => {
     }
   });
 
-  const deliveryOptionId = cartItem.deliveryOptionId;
+  const deliveryOptionId = cartItem.deliveryOptionsId;
 
   let deliveryOption;
   deliveryOptions.forEach((option) => {
