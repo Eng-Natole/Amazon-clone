@@ -22,7 +22,7 @@ A front-end Amazon clone built using **HTML**, **CSS**, and **JavaScript**. This
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript 
 
 ## Installation & Usage
 
